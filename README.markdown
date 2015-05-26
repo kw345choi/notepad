@@ -1,3 +1,5 @@
+## Edit by Test
+
 # NotePad
 
 This is a Rails 3 application using html5 pushState with [Davis.js](http://github.com/olivernn/davis.js)
@@ -29,3 +31,4 @@ To get the app running locally do the following
     rake db:schema:load
     rails s
     open http://localhost:3000/notes
+
